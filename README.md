@@ -1,5 +1,6 @@
-### pablo
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Pablo+Amatheus;tenho+35+anos+;sou+de+Brasilia,+DF;eu+estudo+Frontend+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://github.com/PBOkot">
@@ -7,6 +8,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PBOkot&layout=compact&langs_count=7&theme=dracula"/>
   
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +19,17 @@
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt=Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
+
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://reygif.com/media/5/trabajando-duro-en-el-ordenador-72009.gif">
+
 </div>
+
+  
+   <div> 
+       <br>
+   </div> 
+  
+  
   
   <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
